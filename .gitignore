@@ -1,0 +1,13 @@
+.idea
+
+.vscode
+
+*ipynb_checkpoints
+
+
+__pycache__
+
+*.pth
+log/
+
+*translate_en_zh/
